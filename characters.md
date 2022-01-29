@@ -1,1 +1,1 @@
-rabbit,turtoise0
+rabbit,turtoise0,cow,pig
